@@ -1,0 +1,9 @@
+{
+"HTTP":["Server request methods", "Server responce codes", "Request and responce structures"],
+"JSON": "Structure",
+"XML": "Structure",
+"SQL":["Create", "Delete", "Drop", "Insert Into", "Select", "From", "Where", "Join"],
+"Jmeter": "Stress testing"
+}
+
+
